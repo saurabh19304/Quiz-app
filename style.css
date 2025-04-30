@@ -55,7 +55,7 @@ body{
   color: #ffff;
 }
 
-.btn:hover{
+.btn:disabled{
   cursor: no-drop;
 }
 
